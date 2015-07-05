@@ -7,12 +7,12 @@
 //
 
 //
-//	Rewritten by Joris Vervuurt on 07/01/15, based on the initial code by Andy Drizen.
-//	Website: https://www.joris-vervuurt.com
+//  Rewritten by Joris Vervuurt on 07/01/15, based on the initial code by Andy Drizen.
+//  Website: https://www.joris-vervuurt.com
 //
-//	+ Added comments and pragma marks.
-//	+ Added lots of customization options; from color to speed-related variables.
-//	+ @IBDesignable and @IBInspectable properties: the activity indicator can now be used and customized within Interface Builder.
+//  + Added comments and pragma marks.
+//  + Added lots of customization options; from color to speed-related variables.
+//  + @IBDesignable and @IBInspectable properties: the activity indicator can now be used and customized within Interface Builder.
 //
 
 import UIKit

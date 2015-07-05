@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EAD459B-8B96-4CCE-AEB9-1D7432EE8698</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WKActivityIndicatorExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8495F17A5C1414C17973780FBBF616C2F150042D</key>
+		<string>https://github.com/jorisvervuurt/WKActivityIndicator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WKActivityIndicatorExample/WKActivityIndicatorExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8495F17A5C1414C17973780FBBF616C2F150042D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jorisvervuurt/WKActivityIndicator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8495F17A5C1414C17973780FBBF616C2F150042D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8495F17A5C1414C17973780FBBF616C2F150042D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WKActivityIndicator</string>
+		</dict>
+	</array>
+</dict>
+</plist>

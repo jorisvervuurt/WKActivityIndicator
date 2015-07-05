@@ -7,7 +7,7 @@
 //
 
 //
-//  Rewritten by Joris Vervuurt on 07/01/15, based on the initial code by Andy Drizen.
+//	Rewritten by Joris Vervuurt on 07/01/15, based on the initial code by Andy Drizen.
 //	Website: https://www.joris-vervuurt.com
 //
 //	+ Added comments and pragma marks.
